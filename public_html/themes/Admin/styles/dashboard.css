@@ -1,0 +1,11 @@
+.dashboard-panel { border:5px solid #ececec; margin-bottom:10px; }
+.dashboard-panel-content { border:1px solid #ccc; position:relative; padding:15px; }
+.dashboard-panel h3 { color:#000; font-family:Arial; font-size:14px; font-weight:normal; margin-bottom:10px; }
+.dashboard-right-column { margin-top:10px; float:right; width:375px; }
+.dashboard-left-column { margin-top:10px; margin-right:385px; }
+.dashboard-action-button { display:inline-block; background:url(../images/dashboard/but-mid-sliver.gif) repeat-x; margin-top:-2px; position:relative; }
+.dashboard-action-button a { display:block; background:url(../images/dashboard/but-left-cap-white.gif) no-repeat top left; font-family:Arial; font-size:11px; position:relative; text-decoration:none; }
+.dashboard-action-button span.button-text { display:block; background:url(../images/dashboard/but-right-cap-white.gif) no-repeat top right; padding-top:5px; padding-left:15px; padding-right:15px; height:20px; white-space:nowrap; position:relative; z-index:1; }
+.dashboard-action-button span.button-text-with-arrow { padding-right:29px; }
+.dashboard-action-button span.button-arrow { background:url(../images/dashboard/but-arrow.gif) no-repeat right 3px; position:absolute; top:0; right:3px; height:20px; width:22px; z-index:2; }
+.dashboard-action-drop-down span.button-arrow { background-image:url(../images/dashboard/but-arrow-dropdown.gif); }

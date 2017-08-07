@@ -1,0 +1,1 @@
+<div class="mesg">ne ban <?php echo $error['message']; ?></div>

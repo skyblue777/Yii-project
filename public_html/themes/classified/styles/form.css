@@ -1,0 +1,74 @@
+.form { margin: 0; padding: 0; }
+.form label { font-weight: bold; float: left; }
+.form .row { font-size: 1.1em; padding: 5px 0; overflow: hidden;}
+.form .hint { margin: 0; padding: 0; color: #999; }
+.form .note { font-style: italic; }
+.form span.required { color: red; margin-left: 5px; }
+.form div.error label, .form label.error, .form span.error { color: #C00; }
+.form div.error input, .form div.error textarea, .form div.error select, .form input.error, .form textarea.error, .form select.error { background: #FEE; border-color: #C00; }
+.form div.success input, .form div.success textarea, .form div.success select, .form input.success, .form textarea.success, .form select.success { background: #E6EFC2; border-color: #C6D880; }
+.form .remember { overflow: hidden; line-height:16px; width:auto; }
+html>/**/body .form .remember, #ie8#fix { line-height:13px; }
+.form .remember input { float:left; margin:0 5px 0 0;  padding:0; }
+.form .errorSummary { border: 2px solid #C00; padding: 7px 7px 12px 7px; margin: 0 0 20px 0; background: #FEE; font-size: 0.9em; }
+.form .errorMessage { color: red; font-size: 0.9em; float: none; padding-top: 3px; }
+.form .errorSummary p { margin: 0; padding: 5px; }
+.form .errorSummary ul { margin: 0; padding: 0 0 0 20px; }
+
+.form .row input, .form .row select { float: left; }
+.form .row select { padding: 2px 0; }
+.form .row textarea { overflow: auto; }
+.form .row input[type="text"], input[type="password"], .form .row textarea { padding: 2px 5px; }
+.form .row input[type="radio"], .form .row input[type="checkbox"] { margin: -2px 3px 0 -3px; }
+html>/**/body .form .row input[type="radio"], html>/**/body .form .row input[type="checkbox"] { margin: 1px 4px 0 0; }
+.form .row .text-1 { width: 300px;}
+.form .row .text-2 { width: 80px;}
+.form .row .text-3 { width: 40px;}
+.form .row .text-4 { width: 30px;}
+.form .row .text-5 { width: 200px;}
+.form .row .text-6 { width: 680px;}
+.form .row .check { float: left; padding-left: 15px; padding-top: 3px;}
+.form .row .check label { padding: 0; width: 200px; }
+.form .row .check-list li { float: left; padding-bottom: 5px; width: 100%; }
+.form .row .check-list li label { font-weight: normal; padding-top: 0; text-align: left; width: 500px; }
+.form .buttons { margin-top: 20px; }
+.form .submit-btn { background: url(../images/green-button-1.png) no-repeat; }
+.form .row .multi-column { float: left; width: 750px; }
+.form .row .multi-column input, .form .row .multi-column label { margin-bottom: 6px !important; }
+.form .row .multi-column label { padding: 1px 0; }
+html>/**/body .form .row .multi-column label { padding: 0; }
+.form .row .multi-column input { margin-left: 0; width: 16px; }
+html>/**/body .form .row .multi-column input { margin-left: -1px; }
+.form .row .multi-column label { font-weight: normal; margin-right: 10px; width: 120px; }
+
+.create-ads label { padding-top: 3px; text-align: right; width: 90px; }
+.create-ads label span { color: #f00; }
+.create-ads .group-1, .create-ads .group-2, .create-ads .group-3 { margin-left: 100px; overflow: hidden; }
+.create-ads .group-1 { padding-top: 3px; }
+.create-ads .group-1 .change { margin-left: 20px; }
+.create-ads .group-3 { padding-bottom: 10px; }
+.create-ads .select-btn { background: url(../images/green-button-2.png) no-repeat; color: #fff; display: block; float: left; font-size: 1.1em; font-weight: bold; line-height: 26px; text-align: center; width: 80px; }
+.create-ads .select-btn:hover { text-decoration: none; }
+.create-ads .note-text { float: left; color: #999; padding-top: 3px; }
+.create-ads .type { font-weight: bold; margin-left: 40px; }
+.create-ads .buttons { padding-left: 90px; }
+.create-ads .buttons .note-text { padding-top: 6px; }
+.create-ads .errorMessage { clear: both; margin-left: 100px; }
+.create-ads .group-1 .errorMessage, .create-ads .group-2 .errorMessage { margin-left: 0; }
+.create-ads .promote-list li { float: left; margin-top: 10px; padding-bottom: 20px; width: 600px; }
+.create-ads .promote-list li label { font-weight: normal; padding-top: 0; text-align: left; width: 200px; }
+.create-ads .promote-list li input { margin-top: 1px; margin-right: 3px; }
+.create-ads .promote-list li select { padding: 0; }
+.create-ads .promote-list li .text { float: left; padding-top: 3px; width: 100%; }
+.create-ads .promote-list li .col-1, .create-ads .promote-list li .col-2, .create-ads .promote-list li .col-3 { float: left; padding-right: 10px; width: 300px; }
+.create-ads .promote-list li .col-2 { width: 130px; }
+.create-ads .promote-list li .col-3 { text-align: right; width: 140px; }
+
+.reply-ads label { padding-right: 5px; text-align: right; width: 130px; }
+.reply-ads .buttons { margin-top: 10px; padding-left: 143px; }
+.reply-ads .errorMessage { clear: both; padding-left: 143px; }
+.reply-ads .group-1 { margin-left: 143px; }
+.reply-ads .group-1 .errorMessage { padding-left: 0; }
+.reply-ads .warning { color: #f00; font-weight: bold; padding-top: 5px; }
+
+.form input.extra-text { background: #eeeeee; border: 1px solid #dddddd; }

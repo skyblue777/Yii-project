@@ -1,0 +1,19 @@
+#install { background: url(../images/bg-form-bot.gif) no-repeat left bottom; font-size: .875em; margin: 50px auto; width: 700px; }
+#install fieldset { background: url(../images/bg-form-top.gif) no-repeat; padding: 30px 40px 50px; }
+#install h1 a { background: url(../images/yourlogo.gif); display: none; height: 60px; overflow: hidden; text-indent: -1984em; width: 215px; }
+#install h2 { color: #06c; font-size: 1.4em; font-weight: normal; margin-top: 20px; padding-bottom: 10px; }
+#install p { padding-bottom: 10px; }
+#install ul { list-style: disc; margin-left: 30px; padding-bottom: 10px; }
+#install ol { list-style: decimal; margin-left: 30px; padding-bottom: 10px; }
+#install .note { color: #c00; }
+#install fieldset .input { background-color: #f1f1f1; margin-top: 5px; overflow: hidden; padding: 10px; }
+* html #install fieldset .input { height: 1%; }
+#install fieldset .input span.note { color: #666; display: block; font-size: .9em; margin-left: 120px; margin-top: 3px; padding: 0; }
+#install fieldset label { float: left; padding-right: 10px; width: 110px; }
+#install fieldset label.type { float: none; width: auto; }
+#install fieldset .text, #install .form .text2 { border: #ccc solid 1px; padding: 3px; width: 250px; }
+#install fieldset .text2 { width: 200px; }
+#install fieldset .output { padding: 15px 0; }
+#install fieldset .btn { background: url(../images/bg-button.gif) repeat-x; border: #69a1be solid 1px; color: #409bde; cursor: pointer; font-weight: bolder; height: 30px; -moz-border-radius: 10px; text-align: center; width: 80px;  }
+#install fieldset a.btn { display: block; line-height: 30px; text-decoration: none;}
+#install fieldset .input input {padding: 2px;}

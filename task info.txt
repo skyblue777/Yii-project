@@ -1,0 +1,17 @@
+http://www.sellmy.horse/?r=Admin
+
+
+http://www.sellmy.horse/admin/login.htm
+
+boris.bok@yahoo.com
+
+Boris@Upwork
+
+
+URL: sellmy.horse/cpanel
+User: sellmy
+Password: c44cg6xxX!
+
+host:sellmy.horse
+user:testdev@sellmy.horse
+pass:admin

@@ -1,0 +1,1 @@
+<p>Hi,<br /><br />Your ad "<?php echo $ad_title; ?>" on <?php echo $site_name; ?> has expired. <br /><br />Regards,<br /><?php echo $site_name; ?></p>

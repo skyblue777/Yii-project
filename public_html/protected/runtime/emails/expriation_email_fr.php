@@ -1,0 +1,1 @@
+<p>Bonjour,<br /><br />votre annonce "<?php echo $ad_title; ?>" sur <?php echo $site_name; ?> a expir&eacute;. <br /><br />Cordialement,<br /><?php echo $site_name; ?></p>

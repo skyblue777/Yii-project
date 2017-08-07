@@ -1,0 +1,1 @@
+<h1 class="title-2"><?php echo $summaryText; ?></h1>

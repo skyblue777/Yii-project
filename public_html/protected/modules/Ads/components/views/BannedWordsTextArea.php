@@ -1,0 +1,2 @@
+<?php echo CHtml::textArea($this->name,$this->value,array('cols'=>50,'rows'=>5)); ?>
+<div style="margin: -5px 0 0 210px; color: #999;"><?php echo Language::t(Yii::app()->language,'Backend.Common.Common','Use a comma between words')?></div>

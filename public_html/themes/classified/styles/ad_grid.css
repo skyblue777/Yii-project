@@ -1,0 +1,69 @@
+.grid-view-loading
+{
+    background:url(loading.gif) no-repeat;
+}
+
+.grid-view
+{
+    padding: 15px 0;
+}
+
+.grid-view table.items
+{
+    width: 100%;
+    border-collapse:collapse;
+}
+
+.grid-view table.items th
+{
+    font-size: 1.1em;
+    padding: 5px;
+}
+.grid-view table.items th.last {width: 80px;  }
+.grid-view table.items td { border-top: #ddd solid 1px; padding: 5px; }
+.grid-view table.items td p.price { color: #333333; }
+
+.grid-view .link-column img
+{
+    border: 0;
+}
+
+.grid-view .button-column
+{
+    text-align: center;
+    width: 60px;
+}
+
+.grid-view .button-column img
+{
+    border: 0;
+}
+
+.grid-view .checkbox-column
+{
+    width: 15px;
+}
+
+.grid-view .summary
+{
+    margin: 0 0 5px 0;
+    text-align: right;
+}
+
+.grid-view .pager
+{
+    margin: 5px 0 0 0;
+    text-align: right;
+}
+
+.grid-view .empty
+{
+    font-style: italic;
+}
+
+.grid-view .filters input,
+.grid-view .filters select
+{
+    width: 100%;
+    border: 1px solid #ccc;
+}

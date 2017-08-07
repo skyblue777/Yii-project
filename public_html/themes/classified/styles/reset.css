@@ -1,0 +1,12 @@
+/* reset */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, code, a, abbr, acronym, address, big, small, cite, ins, del, em, img, strike, strong, sub, sup, dl, dt, dd, ol, ul, li, form, fieldset, legend, label, input, select, textarea, table, caption, thead, tbody, tfoot, tr, th, td { margin: 0; padding: 0; }
+ul, ol { list-style: none; }
+fieldset, a img { border: none; }
+:focus { outline: none; }
+body { background-color: #fff; color: #333333; font: normal normal 100%/1.125em Arial, Helvetica, sans-serif; }
+input, select, textarea { color: #333333; font: normal normal 1em Arial, Helvetica, sans-serif; }
+hr { display: none; }
+
+/* hyperlink */
+a:link, a:visited { color: #0000FF; outline: none; text-decoration: none; }
+a:hover { text-decoration: underline; }

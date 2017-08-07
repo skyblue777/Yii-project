@@ -1,0 +1,1 @@
+<div class="mesg"><?php echo $error['message']; ?></div>

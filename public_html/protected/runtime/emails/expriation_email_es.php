@@ -1,0 +1,1 @@
+<p>Hola,<br /><br />su anuncio "<?php echo $ad_title; ?>" en <?php echo $site_name; ?> ha caducado. <br /><br /><?php echo $site_name; ?></p>

@@ -1,0 +1,35 @@
+#header .find-form { background: url(../images/bg-find.gif) no-repeat left top; float: right; font-size: 1.2em; height: 30px; padding: 9px 0 8px 10px; width: 730px;}
+.aside .title { background: url(../images/New-ads.png) no-repeat left top; color: #fff; font-size: 1.2em; line-height: 28px; padding-left: 20px; }
+#footer { background: url(../images/footer.png) no-repeat left top; color: #fff; font-size: .9em; line-height: 32px; margin-top: 20px; padding: 0 10px; }
+
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-next-horizontal {
+    left: 5px;
+    right: auto;
+    background-image: url(../images/left-arrow.gif);
+}
+
+.jcarousel-skin-tango .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 53px;
+    left: 0;
+    width: 51px;
+    height: 52px;
+    cursor: pointer;
+    background: transparent url(../images/left-arrow.gif) no-repeat 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-next-horizontal {
+    position: absolute;
+    top: 53px;
+    right: 5px;
+    width: 51px;
+    height: 52px;
+    cursor: pointer;
+    background: transparent url(../images/right-arrow.gif) no-repeat 0 0;
+}
+
+.jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-prev-horizontal {
+    left: auto;
+    right: 5px;
+    background-image: url(../images/right-arrow.gif);
+}

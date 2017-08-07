@@ -1,0 +1,14 @@
+.btn { background: url(../images/red-button.png) no-repeat left top; border: none; color: #fff; cursor: pointer; line-height: 18px; margin: 0 10px; padding: 4px 0 5px; width: 111px; }
+a.btn { color: #fff; display: block; float: left; font-size: 1em; line-height: 26px; padding: 0; text-align: center; text-decoration: none; font-weight: bold; }
+input.btn { font-size: 1em; text-align: center; text-decoration: none; font-weight: bold; }
+.large-btn { background: url(../images/red-reply-by-email-butto.png) no-repeat left top; border: none; color: #fff; cursor: pointer; line-height: 24px; margin: 0 10px; padding: 3px 0; width: 136px; height: 28px; }
+a.large-btn { color: #fff; display: block; float: left; font-size: 1.2em; line-height: 28px; padding: 0; text-align: center; text-decoration: none; font-weight: bold; }
+input.large-btn { font-size: 1.2em; text-align: center; text-decoration: none; font-weight: bold; }
+.find-form .btn-search { background: url(../images/red.png) no-repeat left top; border: none; cursor: pointer; font-size: 0; height: 26px; line-height: 0; text-indent: -1984em; width: 35px;}
+.find-form .btn { font-size: 1em; margin-right: 0; }
+.intro .image .num-img a.btn-pre { background-image: url(../images/red-prev.gif);}
+.intro .image .num-img a.btn-next { background-image: url(../images/red-next.gif); float: right;}
+.categories li a { background: url(../images/red-icon-list-cate.gif) no-repeat 5px center; padding-left: 15px;}
+.price { color: #ff000c; }
+ul.warning-conditions { list-style: none; margin-top: 20px; line-height: 3px; }
+ul.warning-conditions li { background: url(../images/red-icon-list-cate.gif) no-repeat; padding-left: 15px; margin: 0px 0px 15px 15px; }
